@@ -1,0 +1,424 @@
+# Target Companies — CREFC January 2026 Miami Attendee List
+
+Source: CREFC January 2026 Miami conference "See Who's Attending" list (pasted by user, since the page is behind a conference-registrant login and WebFetch cannot reach it in this environment).
+
+Filtered by Claude + user review on 2026-10-07: removed law firms, accounting firms, universities/colleges, consulting/advisory/due-diligence firms, data/tech/research vendors, trade press/media, trade associations/non-GSE government bodies, title insurance, appraisal, reinsurance/insurance brokerage, and loan back-office/ops vendors. Executive search/recruiting firms and rating agencies were deliberately kept in at the user's request. Kept in: investment banks/broker-dealers, CRE brokerage/capital-markets advisory firms, master/special servicers, life insurers and their investment arms, pension funds/sovereign wealth/institutional LPs, GSEs/FHLBs, and all direct lenders/investors/debt funds/banks.
+
+This list supplements (does not replace) the original TARGET COMPANIES list in the daily CRE job search routine. The routine should search each company below, in addition to its existing target list, for open CRE credit/underwriting/lending roles (Analyst through VP).
+
+414 companies.
+
+- 3650 Capital
+- 9606 Family Office
+- A10 Capital
+- ACORE Capital
+- ACRE Solutions, LLC
+- ACRES Capital, LLC
+- AEGON Asset Management
+- AGNC Investment Corp
+- ARC70 Capital
+- ARCTRUST
+- ATLAS SP Partners
+- AXA Investment Managers
+- Aareal Capital Corp.
+- Academy Securities
+- Access Point Financial Inc.
+- Affinius Capital
+- Alberta Investment Management Corporation
+- Allegiant Real Estate Capital, LP
+- Allen Street Partners, LLC
+- AllianceBernstein L.P.
+- American Landmark
+- Amzak Capital Management
+- Apollo Global Management
+- Arbor Realty Trust, Inc.
+- Archway Capital
+- Ares Management LLC
+- Argentic
+- Arixa Capital
+- ArrowMark Partners
+- Atrium Holding Company
+- Avanta Residential
+- Avison Young
+- BAWAG Group
+- BDT & MSD Partners
+- BH Properties
+- BL Capital
+- BLDG Management
+- BMO
+- BNP Paribas
+- BTG Pactual
+- Banc of California
+- Bank of America
+- BankUnited
+- Barclays
+- Barings
+- Basalt Capital LLC
+- Basis Industrial
+- Basswood Capital Partners
+- Bayview Commercial Mortgage Finance LLC
+- BellOak, LLC
+- Bellwether Asset Management
+- Bellwether Enterprise Real Estate Capital
+- Benefit Street Partners
+- Benenson Capital Partners, LLC
+- BentallGreenOak
+- Berkadia Commercial Mortgage LLC
+- Berkshire Group
+- Bettina Equities Management LLC
+- Birdsey Group Commercial
+- BlackRock
+- Blackstone
+- Bloomfield Capital
+- Blue Owl Capital
+- Bradford Allen Capital
+- Bravo Capital
+- Brean Capital LLC
+- Bridge Investment Group
+- BridgeRock Capital Holdings, Inc.
+- Broadshore Capital Partners, LLC
+- C-III Capital Partners
+- CBRE Capital Markets, Inc.
+- CFG Bank
+- CIBC
+- CPP Investments
+- CRE Bridge Capital
+- CREXI
+- CSG Investments, Inc.
+- CWCapital
+- California State Teachers Retirement System
+- Capital One
+- Cardinal Group Companies
+- Caro Investors
+- Catal Capital
+- Centennial Bank
+- Centurion Asset Management Inc.
+- Cigna Realty Investors
+- Citadel Securities LLC
+- Citigroup Global Markets
+- Citymark Capital
+- Cityview
+- Clarion Partners
+- Clearwater PACE
+- Colliers International
+- Community Bank, N.A.
+- Comstock Companies
+- Concord Summit Capital
+- CorAmerica LLC
+- Corebridge Financial
+- Counterpointe Sustainable Real Estate
+- Crescent Heights
+- CrossHarbor Capital Partners LLC
+- Cushman & Wakefield, Inc.
+- CyrusOne
+- D2 Asset Management
+- DB Advisory America, Ltd.
+- DLA Piper
+- DLP Capital
+- DWS
+- Dalfen Industrial
+- Davidson Kempner
+- Davis
+- Desjardins Capital Markets
+- Deutsche Bank
+- Diversified Management Plus
+- Douglas Wilson Companies
+- Dry Creek Capital Partners
+- EDGE Capital Markets
+- EOS Investors
+- Eightfold Real Estate Capital, L.P.
+- Elevation Financial Group, LLC
+- Ellington Management
+- Empower
+- Esquire Bank
+- Essex Financial Services LLC
+- EverBank
+- Evercore
+- Evolve Companies
+- F&F Capital Group
+- FCP
+- FHLB Cincinnati
+- FHLB Indianapolis
+- Fairview Partners Investment Management LLC
+- Falcone Group
+- Fannie Mae
+- Federal Home Loan Bank of Chicago
+- Federal Home Loan Bank of Indianapolis
+- Federal Home Loan Bank of San Francisco
+- Fifth Third Bank
+- First Draw Capital Inc
+- Fitch Ratings
+- Flagstar Bank
+- Forum Investment Group
+- Freddie Mac
+- Frontline Real Estate Partners
+- Frost Brown Todd LLC
+- Frost Investment Advisors, LLC
+- GF Hotels & Resorts
+- GIC Real Estate
+- GREA - Global Real Estate Advisors
+- Gabell Beaver LLC
+- Galaxy Realty Capital, LLC
+- Gantry
+- George Smith Partners
+- Goldman, Sachs & Co.
+- Goodwin Advisors
+- Grandbridge Real Estate Capital
+- Granite Point Mortgage Trust
+- Greystone
+- Guggenheim Partners
+- HAB
+- HELLER
+- HPS Investment Partners LLC
+- HR Ratings
+- Hall Group
+- Hankey Capital
+- Harbor Capital
+- Harbor Group International, LLC
+- Harrison Street Real Estate
+- Hartford Investment Management Company
+- Haven Capital
+- High Plateau Capital
+- Hilco Real Estate
+- Hilson Management Corp
+- Hunt Companies
+- Huntington National Bank
+- ICBC
+- IZo Capital
+- Ikaria Capital Group
+- Impact Asset Management
+- Industrial and Commercial Bank of China
+- Inland Mortgage Capital, LLC
+- Insight Investment
+- Invesco
+- J.P. Morgan
+- JDI Realty
+- Jackson Lucas
+- Jackstay Ventures LLC
+- Janus Henderson Investors
+- Jennison
+- John B. Levy & Company
+- Johnson Controls Capital
+- Jones Lang LaSalle
+- Juniper Capital Group
+- K-Star Asset Management LLC
+- KBRA
+- KKR - Kohlberg Kravis Roberts
+- Kasirer
+- Kawa Capital Management
+- Keen-Summit Capital Partners LLC
+- KeyBank Real Estate Capital
+- Keystone National Group
+- Kinea Investimentos
+- King Street Capital
+- Knighthead Funding, LLC
+- Korth Direct Mortgage
+- Kroll, LLC
+- LMCG Investments
+- LMF Commercial
+- LNR Partners LLC
+- La Caisse
+- Leonidas Partners
+- Leste
+- Letap Group, Inc.
+- Liberty Mutual Investments
+- Lincoln Financial Group
+- LoanCore Capital, LLC
+- Loci Capital
+- Loews Corporation
+- Longfellow Real Estate Partners
+- Longline Management
+- Lument
+- M&T Bank
+- MAG Partners
+- MC Advisors
+- MCB Real Estate
+- MDH Partners
+- MFS Investment Management
+- MJL Real Estate Advisors, LLC
+- MONTICELLOAM, LLC
+- MUFG Bank Ltd.
+- Madison Commercial Real Estate Services
+- Manulife
+- Marcus & Millichap Company
+- Merchants Capital Corp
+- Meritz Securities
+- Mesirow
+- MetLife Investment Management
+- Metropolitan Commercial Bank
+- MidCap Financial Services, LLC
+- Midland Loan Services
+- Midtown Equiities
+- Mischler Financial Group, Inc.
+- Mission Capital Advisors
+- Montgomery Street Partners
+- Moody's
+- Morgan Properties
+- Morgan Stanley
+- Morningstar DBRS
+- Mount Street Group
+- Mubadala
+- Mutual Of Omaha Bank
+- NAI Farbman
+- NLG Capital
+- National Bank of Kuwait
+- National Cooperative Bank, N.A.
+- National Life Group
+- Natixis
+- New York Life Real Estate Investors
+- NewPoint Real Estate Capital
+- Newmark
+- NexPoint
+- Nippon Life Global Investors Americas, Inc.
+- Nomura Holdings
+- North Development
+- NorthMarq Capital LLC
+- Northgate Real Estate Group
+- Northpoint Development
+- Northwestern Mutual Investment Management Company, LLC
+- Northwood Investors
+- Nova Group, GBC
+- Nuveen
+- Oak Hill Advisors
+- OakNorth Bank Plc
+- Oaktree Capital Management, L.P.
+- Ohio Public Employees Retirement System
+- Onity Group/PHH Mortgage
+- PACE Equity
+- PCD Development
+- PEBB Enterprises
+- PERE Credit
+- PGIM
+- PIMCO
+- PNC Bank
+- PPM America, Inc.
+- PREIT
+- PRP: Real Estate Investment Mgmt
+- Paceline Equity
+- Pacific Life Insurance Company
+- Palladius Capital Management
+- Paramount Group Inc.
+- Park Bridge Financial LLC
+- Park Place Finance, LLC
+- Parkview Financial
+- Parnassas Group, LLC
+- Peachtree Group
+- Pearlmark
+- Pemaquid Advisors LLC
+- Penn Mutual Asset Management
+- Pensam Capital LLC
+- Pentagon Federal Credit Union
+- Performance Trust Capital Partners
+- Petros PACE Finance
+- Pioneer Investments
+- Polar Asset Management Partners
+- Post Brothers
+- Prime Finance
+- Principal Real Estate Investors
+- Progressive Capital Management
+- Prospect Capital Management
+- Pure Industrial
+- Q10 Capital Servicing LLC
+- QuadReal Finance LP
+- Quiq Capital
+- RBC
+- RCP Finance
+- RPC Holdings
+- RRA Capital
+- RWC Lending
+- RXR
+- Raith Capital Partners
+- Raymond James
+- ReadyCap Commercial, LLC
+- Realterm Credit Solutions
+- Red Cedar Investment Management
+- Regions Financial Corp
+- Revere Capital
+- Rexmark
+- Rialto Capital
+- Rockport
+- Rockwood Capital, LLC
+- Russell Reynolds
+- S&P Global Ratings
+- S3 Capital Partners
+- SIGHTHOUND Search Partners
+- SLC Management
+- SMBC
+- SMBMI
+- SVN
+- Safra National Bank
+- Saluda Grade
+- San Manuel Band of Mission Indians
+- Santander US Capital Markets LLC
+- Seer Capital Management LP
+- Sheffield Haworth
+- Shorenstein Investment Advisors
+- Silverskills
+- Simmons Bank
+- SitusAMC
+- Slatt Capital
+- Societe Generale
+- Socotra Capital
+- Sound Point Capital
+- Spinoso Real Estate Group
+- Spring11
+- Starwood Property Trust
+- State Street
+- Stifel Nicholas
+- Stoneweg US, LLC
+- Stormfield Capital
+- Strategic Property Associates LLC
+- Strategic Value Partners Global
+- SuMi TRUST
+- Summer Street Advisors, LLC
+- Sundance Bay
+- Surmount
+- Switch
+- Symetra Financial
+- TD
+- TD Securities
+- TPG Real Estate Credit
+- TSB Capital Advisors
+- The Bancorp
+- The Bank of Nova Scotia
+- The Dermot Company
+- The Vanguard Group
+- Thor Equities
+- Thorofare Capital
+- Thrivent Financial
+- Tokyu Land US Corporation
+- Toorak Capital Partners
+- Torchlight Investors
+- Townhouse Partners
+- Transformco Properties
+- Transwestern
+- Tremont Realty Capital LLC
+- Trez Capital
+- TriState Capital Bank
+- Trimont
+- Truist
+- Trust Company of the West
+- Twain Capital Partners
+- Twain Financial Partners
+- U.S. Bank, NA
+- UBS
+- Urban Standard Capital
+- Valitana
+- Vanbarton
+- Vanguard
+- Varde Partners
+- Vertix Group, LLC
+- Victory Capital
+- Voya Investment Management
+- W Financial Fund, LP
+- Walker & Dunlop
+- Waterstone Capital Advisors
+- Waterton
+- Webster Bank
+- Weitz Investment Management
+- Wells Fargo
+- WindMass Capital
+- Winston Capital Management LLC
+- X Caliber
+- ZRG Partners
+- Zions Bancorporation, N.A.
